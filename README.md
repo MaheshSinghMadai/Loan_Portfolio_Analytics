@@ -1,3 +1,8 @@
+This is a comprehensive Loan Portfolio Management & Collections Dashboard for a financing company. It covers portfolio health, risk/NPA analysis, customer demographics, staff/branch performance, and collections effectiveness. The design is clean, professional, and suitable for senior management and collections teams.
+
+
+
+
 **Executive Portfolio Summary**  
 This is the high-level overview dashboard.
 Key Highlights (KPIs):
