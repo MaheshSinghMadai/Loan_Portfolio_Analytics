@@ -1,0 +1,74 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 170.247448487402,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1642.0668248469387,
+            "y": 371.28696287415971
+          },
+          "nodeIndex": "Data_Dictionary",
+          "nodeLineageTag": "6bf814ff-b957-4a78-ae1c-b91efb997b48",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1231.2656047628807,
+            "y": 388.20961911953793
+          },
+          "nodeIndex": "Loan_Portfolio",
+          "nodeLineageTag": "00e88136-a1e6-463d-a324-f17aadefdf90",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 317.293666442377,
+            "y": 96.14033900921379
+          },
+          "nodeIndex": "Measure",
+          "nodeLineageTag": "a53dbf66-f832-4d8f-91a6-b89ef1ebab38",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1071.8172293065427,
+            "y": 78.564327564405829
+          },
+          "nodeIndex": "Dim_Date",
+          "nodeLineageTag": "a6835b80-0de8-4f45-b271-e8403a192d72",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 70.95554390096882,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

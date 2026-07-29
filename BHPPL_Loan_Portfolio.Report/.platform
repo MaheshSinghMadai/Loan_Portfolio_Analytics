@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "BHPPL_Loan_Portfolio"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d433bf8d-dfe1-4177-8f20-771bc0045951"
+  }
+}
